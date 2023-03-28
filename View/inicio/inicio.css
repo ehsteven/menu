@@ -1,3 +1,9 @@
+
+#galeria {
+	display: flex;
+	justify-content: space-between;
+  }
+
 .flex-container {
     display: flex;
     position: absolute;
@@ -5,6 +11,15 @@
     top:190px;
     height: 100px;
     background-color: rgba(0, 137.0000222325325, 155.00000596046448, 0.6899999976158142);
+  }
+
+.flex-container-images {
+    display: flex;
+    position: absolute;
+    width:100%;
+    top:320px;
+    height: 100px;
+    background-color: rgba(255, 255, 255, 0.69);
   }
   
   .flex-container > button {
