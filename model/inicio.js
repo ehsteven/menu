@@ -20,8 +20,6 @@ const imagenes = [
   ];
   
   function renderizarGaleria() {
-    
-    
     imagenes.forEach(function(imagen){
         document.getElementById("galeria").innerHTML += `
         <div class="galeria-item">
