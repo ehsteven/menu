@@ -1,4 +1,3 @@
-
 #galeria {
 	display: flex;
 	justify-content: space-between;
@@ -38,6 +37,8 @@
     color: rgb(0, 0, 0);
 }
 
+
+
 .texto_titulo { 
 	color:rgba(0, 0, 0, 1);
 	position:absolute;
@@ -74,10 +75,12 @@
 	top:1080px;
 }
 .fondo_1 { 
+	width:300px;
+	height:300px;
 	position:absolute;
 	left:0px;
 	top:213px;
-	background-image:url(/public/imagenes/image_3.png);
+	background-image:url(/public/imagenes/image_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -142,6 +145,12 @@
 	border-top-right-radius:20px;
 	border-bottom-left-radius:20px;
 	border-bottom-right-radius:20px;
+	font-size: 18px;
+}
+
+.btn_1 > button:hover{
+    background-color: rgba(0, 0, 0, 0.7);
+    color: rgb(0, 0, 0);
 }
 .btn_2 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
@@ -154,6 +163,7 @@
 	border-top-right-radius:20px;
 	border-bottom-left-radius:20px;
 	border-bottom-right-radius:20px;
+	font-size: 18px;
 }
 .btn_3 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
@@ -166,6 +176,7 @@
 	border-top-right-radius:20px;
 	border-bottom-left-radius:20px;
 	border-bottom-right-radius:20px;
+	font-size: 18px;
 }
 .e6_23 { 
 	color:rgba(0, 0, 0, 1);
@@ -251,15 +262,15 @@
 	font-size:16px;
 	letter-spacing:0;
 }
-.e6_29 { 
-	width:1436px;
+.cuadro_info_grande { 
+	width:100%;
 	height:492px;
 	position:absolute;
 	left:3px;
 	top:1670px;
 }
-.e6_63 { 
-	background-color:rgba(9.56250037997961, 0, 0, 1);
+.btn_enviar { 
+	background-color:rgb(55, 41, 41);
 	width:344px;
 	height:73px;
 	position:absolute;
@@ -269,64 +280,76 @@
 	border-top-right-radius:40px;
 	border-bottom-left-radius:40px;
 	border-bottom-right-radius:40px;
+	font-size: 22px;
+	color:rgb(255, 255, 255)
+	
 }
-.e6_30 { 
+.cuadro_info { 
 	background-color:rgba(0, 137.0000222325325, 155.00000596046448, 0.6899999976158142);
-	width:1436px;
+	width:100%;
 	height:492px;
 	position:absolute;
 	left:0px;
 	top:0px;
 }
-.e6_64 { 
-	color:rgba(255, 255, 255, 1);
-	width:341px;
-	height:51px;
-	position:absolute;
-	left:718px;
-	top:398px;
-	font-family:Inter;
-	text-align:center;
-	font-size:36px;
-	letter-spacing:0;
+
+.grid-container {
+
+	display: grid;
+	grid-template-areas:
+	  'contact contact'
+	  'mensaje mensaje'
+	  'nomb correo'
+	  'asunto asunto'
+	  'mensaje mensaje';
+	gap: 10px;
+	padding: 10px;
+  }
+  
+  .grid-container > div {
+	padding: 20px 0;
 }
-.e6_42 { 
-	color:rgba(255, 255, 255, 1);
-	width:246px;
-	height:43px;
-	position:absolute;
-	left:718px;
-	top:328px;
-	font-family:Inter;
-	text-align:left;
-	font-size:16px;
-	letter-spacing:0;
-}
-.e6_34 { 
+
+.contacto {
+	grid-area: contact;
 	color:rgba(255, 255, 255, 1);
 	width:489px;
 	height:120px;
 	position:absolute;
 	left:718px;
-	top:34px;
+	top:-10px;
 	font-family:Inter;
 	text-align:left;
 	font-size:64px;
 	letter-spacing:0;
 }
-.e6_38 { 
+
+.mensaje_l { 
 	color:rgba(255, 255, 255, 1);
-	width:587px;
-	height:38px;
+	width:246px;
+	height:43px;
 	position:absolute;
-	left:716px;
-	top:135px;
+	left:718px;
+	top:270px;
 	font-family:Inter;
 	text-align:left;
 	font-size:16px;
 	letter-spacing:0;
 }
-.e6_36 { 
+.mensaje { 
+	grid-area: mensaje;
+	color:rgba(255, 255, 255, 1);
+	width:587px;
+	height:38px;
+	position:absolute;
+	left:716px;
+	top:70px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.mapa { 
 	width:485px;
 	height:434px;
 	position:absolute;
@@ -336,60 +359,62 @@
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e6_40 { 
+.correo { 
 	color:rgba(255, 255, 255, 1);
 	width:246px;
 	height:46px;
 	position:absolute;
 	left:1070px;
-	top:187px;
+	top:120px;
 	font-family:Inter;
 	text-align:left;
 	font-size:16px;
 	letter-spacing:0;
 }
-.e6_41 { 
+.asunto { 
 	color:rgba(255, 255, 255, 1);
 	width:246px;
 	height:43px;
 	position:absolute;
 	left:718px;
-	top:259px;
+	top:200px;
 	font-family:Inter;
 	text-align:left;
 	font-size:16px;
 	letter-spacing:0;
 }
-.e6_39 { 
+.nombre { 
+	grid-area: nomb;
 	color:rgba(255, 255, 255, 1);
 	width:246px;
 	height:50px;
 	position:absolute;
 	left:717px;
-	top:193px;
+	top:120px;
 	font-family:Inter;
 	text-align:left;
 	font-size:16px;
 	letter-spacing:0;
 }
-.e6_71 { 
+
+.footer { 
 	width:591px;
 	height:136px;
 	position:absolute;
 	left:49px;
-	top:2214px;
+	top:2214px; 
 }
-.e6_65 { 
+.logo_footer { 
 	width:150px;
 	height:136px;
 	position:absolute;
 	left:0px;
 	top:0px;
-	background-image:url(/public/imagenes/1_1.png);
+	background-image:url(/public/imagenes/logo.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
-.e6_66 { 
+.direccion { 
 	color:rgba(0, 0, 0, 1);
 	width:409px;
 	height:30px;
@@ -401,7 +426,7 @@
 	font-size:16px;
 	letter-spacing:0;
 }
-.e6_70 { 
+.tele { 
 	color:rgba(0, 0, 0, 1);
 	width:409px;
 	height:30px;
@@ -425,7 +450,7 @@
 	font-size:16px;
 	letter-spacing:0;
 }
-.e6_73 { 
+.info_escuela { 
 	color:rgba(0, 0, 0, 1);
 	width:961px;
 	height:86px;
@@ -434,7 +459,7 @@
 	top:1175px;
 	font-family:Inter;
 	text-align:center;
-	font-size:16px;
+	font-size:23px;
 	letter-spacing:0;
 }
 .e2_234 { 
@@ -487,4 +512,8 @@
 	text-align:center;
 	font-size:48px;
 	letter-spacing:0;
+}
+
+textarea{
+	resize: none;
 }
