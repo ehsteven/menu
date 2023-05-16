@@ -2,20 +2,20 @@
 
 const imagenes_tec = [
   {
-    src: "/public/ejemplos/image_12.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pBcGC3_a7V0vtt6zUBmtv39W32s6I00Zyf_qMkXKv_r3vyJMBXhAwKUi4faZMgDE1bvXd5rPVN40q_Tbqe8i9NhLxX=s1600",
     alt: "Gatitos, no se puede decir más",
-    nombre: "Diseño gráfico",
+    nombre: "Diseño gráfico", 
     id:'1',
   },
   {
-    src: "/public/ejemplos/image_13.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81paB3GWF58rvUVrIf_GbulGcpwkyA4PqHmOmM4CG7iHaPNGImrHIZ5Xp7BfJIrdA4O2zLWShvkIJb4Ikf8wQLVtJmfTTg=s1600",
     alt: "Gatitos, no se puede decir más",
     nombre: "Producción audivisual",
     id:'2',
   },
   {
     src: "/public/ejemplos/image_14.png",
-    alt: "Gatitos, no se puede decir más",
+    alt: "Ejemplo de sublimacion",
     nombre: "Sublimación",
     id:'3',
   },
@@ -23,43 +23,43 @@ const imagenes_tec = [
 
 const imagenes_gas = [
   {
-    src: "/public/imagenes/image_5.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pKmuje72qYJhYO5AyXp1CM8enhb7152-O-vOkazAI3EJ3NZRBzxHGklFIBvsrVd04KDh-Ds0L52ZPplR6fsIwRgCj6=s1600",
     alt: "Gatitos, no se puede decir más",
     nombre: "Panadería",
     id:'1',
   },
   {
-    src: "/public/imagenes/image_6.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qKJZaBDAtlxNRdgl2t-QrpUpOED3g_up6TWjLtImnwqiwYGEogCE7HpLSIt2-Yn-ftUxJJrQDp-BQz1YBzjSqRxnF9=s1600",
     alt: "Gatitos, no se puede decir más",
     nombre: "Barismo",
     id:'2',
   },
   {
-    src: "/public/imagenes/image_7.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qB3b-1oWoXIJHe85wOjRoSJte7lf3ZLK6abLFskyLdyRtLUkqJgoy6XsA8sRy4jpcNvgVwfxQGGqWqyMEyI9euG4CnmA=s1600",
     alt: "Gatitos, no se puede decir más",
     nombre: "Pastelería Gourmet",
     id:'3',
   },
   {
-    src: "/public/imagenes/image_8.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qU4e8t3Nq7J76e4Bp6G9X2kEfppF4zonEcBZUQPVaX7NcLs7nosOyFrI7EcjPSWxEYMmB_TcFtggq79Hm7sX8sf7iT=s1600",
     alt: "Gatitos, no se puede decir más",
     nombre: "Charcutería",
     id:'4',
   },
   {
-    src: "/public/imagenes/image_9.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r0xYqQzD6INmaZkuAI1Q6Uic6p7fpvJZtwVYg7CE4dWizTH9VcUT24gdQCC9hI0SG-meduD-HjckeBUdw9BZC4P9YGKw=s1600",
     alt: "Gatitos, no se sd más",
     nombre: "Cocina",
     id:'5',
   },
   {
-    src: "/public/imagenes/image_10.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pSGxJAzW9ERef2Cxk61NMm4DqbW2j3QB9IUuesjeB7Eq94t7mhhtQZcswa6T-4-f_Kr_3zC6HUkQWqc-APzhG9cypj=s1600",
     alt: "Gatitos, no se sd más",
     nombre: "Home chef",
     id:'6',
   },
   {
-    src: "/public/imagenes/image_11.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qD4QbcvxqTOR3G4DPTokbKSQJEN3E61HMcbKAC3lwFs8EaWOiKSJrQOEWKOiiah9wh43f3bggAi5JJwgbPsJnaQq9_=s1600",
     alt: "Gatitos, no se sd más",
     nombre: "Conservas",
     id:'7',

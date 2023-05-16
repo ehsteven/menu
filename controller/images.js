@@ -31,6 +31,23 @@ const imagenes_barismo  = [
   },
 ];
 
+const imagenes_pasteleria  = [
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qB3b-1oWoXIJHe85wOjRoSJte7lf3ZLK6abLFskyLdyRtLUkqJgoy6XsA8sRy4jpcNvgVwfxQGGqWqyMEyI9euG4CnmA=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oOP7RsBcyJ-5PSklJ9yw4m8tJEvar9shfnVOWbbXYK7C8OswOwWaNJRdP7IX2tSGwO3wPHHadsMnnUsqflhKIIMHu7sw=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qRC3f6Ok7i4YqDvk-pW43EukOLeetht1yEvzSXs3O8hUn3RtDTOTUNP7pX8al71ggJsVOiOFVq64jQIwf0YbCze7kFQQ=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+];
+
+
+
 const imagenes_chur  = [
   {
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81py3WHxrjWmX9f9mjF3lZwxkCRGsdmIAxeSgiKv6rvVpKfiwVYZNSBKQIKierbCHwZHOnWkz5l9a4rnDtA0QrNJLQb5lQ=s1600",
@@ -45,6 +62,55 @@ const imagenes_chur  = [
     alt: "Gatitos, no se puede decir más",
   },
 ];
+
+const imagenes_home  = [
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pbnS6dsSYPVwqXchTDdJVpzuN7ife11cr72vykEnED4FOluEvdxveW5U5b0q6n0Ynv9p_Rk8hsUYKGfkGAHETer8f6qA=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {//
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r6kjSuVOaPjLpaF_E6jpGFSA5t2DjALxpicint-caPsA6qYdBdBaW_cvulp9Fg96-GF7B9DKrReTZ42k-_SDAPaSR2=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oi7CUEFHWG37LEy2VmSKhtxCX7hdhR5Sj4EhuyBE5GGyPDJgzakDNG87LAWwrl6mQShLzM6FX-mwUw3x8nMpQBnULr7g=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+];
+
+const imagenes_cocina  = [
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qON6JgoVmHXguiKzut_4b2Pu1y1nmiM5Lpt6BaCDrFKe8jRFOq-raew2Ef_pjABUbOE1j3CJ7oGVw0Qw9tVnJQz4IVwg=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {//
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qL1AZWccM106P2JFLExeza4VH4eW21ZRB0Mddl37b7Egnd9RNMRO2zgrApsxgNxyfygWTaZH3qTKWPoZZJTaQeG6Ahkw=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {//
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qFBi_dmmZtuAN8o4pvD0sy6nvaddbUVVpJQlqeUcNNZZSdLSKEWfIh_9JELTA0eKMu2qlTYgiqV-LDm1w1OOdme9IySA=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+];
+
+const imagenes_conservas  = [
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qD4QbcvxqTOR3G4DPTokbKSQJEN3E61HMcbKAC3lwFs8EaWOiKSJrQOEWKOiiah9wh43f3bggAi5JJwgbPsJnaQq9_=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {//
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oCLXfAXiaYpCwzo4bJd4kVBu1YVp1DJPKwFAgaa9BhFepqSpQzy1X-0ysf9tgkkyD2j8O-_jSGE2X_ZADtB2orv0nqtg=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {//
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rHs-CfrY68hA9J66ICg5AkfWh0Py-7NJQMQWJUVcia4oYslpOWxTr4lF4Hn7avYOfvrLvAcfxKbVzZBkbAnCOTz4twmQ=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+];
+
+
+
+
 
 //tecnologia
 const imagenes_dis = [
@@ -76,6 +142,8 @@ const imagenes_prod  = [
     alt: "Gatitos, no se puede decir más",
   },
 ];
+
+
 // Servicios y oficios (ebanisteria, arte, bisuteria)
 const imagenes_eba  = [
   {
@@ -84,6 +152,17 @@ const imagenes_eba  = [
   },
   {
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rNkiPvVLA79qu2639cA_d2WLLYm4ePhtDmKQZQ10M5pmtJLLKwgPFni-bUbyrko9gQSbA46xuP055pPWVqcrNX8o56=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+];
+
+const imagenes_bisu  = [
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pcmbFJBpslN3-6fafNiIf90tyBnszKlGtVHtAdUXiqzMtSoU7OjGPdhpVfe-TauSCIX7tBDYHWOzB71--HCTFatTmoWQ=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pWoaiZnI21JbqApYQ7YczNVzjTcVVc257LLvw_CuMkNhPg4TJdKRFUgwC5Ea8ZIzTiyRe6TgNYnR57SSaPDw-tzGMv_Q=s1600",
     alt: "Gatitos, no se puede decir más",
   },
 ];
@@ -168,6 +247,22 @@ function img_pana() {
   document.getElementById("galeria").innerHTML = HTML;
 }
 
+function img_paste() {
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
+  imagenes_pasteleria.forEach(function (imagen) {
+    HTML += `
+          <div class="col">
+            <div class="card border-primary mb-3" style="max-width: 22rem;">
+             <div class="card-body text-primary">
+                  <img src="${imagen.src}" alt="${imagen.alt}"  width="300px" height="300px"/>
+              </div>
+            </div>
+          </div>`;
+  });
+  HTML += `</div>`;
+  document.getElementById("galeria").innerHTML = HTML;
+}
+
 function img_chur() {
   let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
   imagenes_chur.forEach(function (imagen) {
@@ -187,6 +282,54 @@ function img_chur() {
 function img_barismo() {
   let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
   imagenes_barismo.forEach(function (imagen) {
+    HTML += `
+          <div class="col">
+            <div class="card border-primary mb-3" style="max-width: 22rem;">
+             <div class="card-body text-primary">
+                  <img src="${imagen.src}" alt="${imagen.alt}"  width="300px" height="300px"/>
+              </div>
+            </div>
+          </div>`;
+  });
+  HTML += `</div>`;
+  document.getElementById("galeria").innerHTML = HTML;
+}
+
+function img_homeChef() {
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
+  imagenes_home.forEach(function (imagen) {
+    HTML += `
+          <div class="col">
+            <div class="card border-primary mb-3" style="max-width: 22rem;">
+             <div class="card-body text-primary">
+                  <img src="${imagen.src}" alt="${imagen.alt}"  width="300px" height="300px"/>
+              </div>
+            </div>
+          </div>`;
+  });
+  HTML += `</div>`;
+  document.getElementById("galeria").innerHTML = HTML;
+}
+
+function img_cocina() {
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
+  imagenes_cocina.forEach(function (imagen) {
+    HTML += `
+          <div class="col">
+            <div class="card border-primary mb-3" style="max-width: 22rem;">
+             <div class="card-body text-primary">
+                  <img src="${imagen.src}" alt="${imagen.alt}"  width="300px" height="300px"/>
+              </div>
+            </div>
+          </div>`;
+  });
+  HTML += `</div>`;
+  document.getElementById("galeria").innerHTML = HTML;
+}
+
+function img_conservas() {
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
+  imagenes_conservas.forEach(function (imagen) {
     HTML += `
           <div class="col">
             <div class="card border-primary mb-3" style="max-width: 22rem;">
@@ -253,6 +396,22 @@ function img_subl() {
 function img_eba() {
   let HTML = `<div class="row row-cols-3 row-cols-md-2 g-4">`;
   imagenes_eba.forEach(function (imagen) {
+    HTML += `
+          <div class="col">
+            <div class="card border-primary mb-3" style="max-width: 22rem;">
+             <div class="card-body text-primary">
+                  <img src="${imagen.src}" alt="${imagen.alt}"  width="300px" height="300px"/>
+              </div>
+            </div>
+          </div>`;
+  });
+  HTML += `</div>`;
+  document.getElementById("galeria").innerHTML = HTML;
+}
+
+function img_bisu() {
+  let HTML = `<div class="row row-cols-3 row-cols-md-2 g-4">`;
+  imagenes_bisu.forEach(function (imagen) {
     HTML += `
           <div class="col">
             <div class="card border-primary mb-3" style="max-width: 22rem;">
