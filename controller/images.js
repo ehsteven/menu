@@ -14,6 +14,28 @@ const imagenes_pana  = [
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oTQ5b12bXTyH2klFKHhH0kWZJgULwxuW7hpM7ATM4zXHQ69SvZ-a0VR0PHh8-KRoFg_VzxNntbz6SVCmFKh6DQmx9_bA=s1600",
     alt: "Gatitos, no se puede decir más",
   },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qNXfflhO0dcXp9VK9TjydYELJT0D16uWXcwsQWiB_8uoVmyU5kp8uyXvFZ5Scyc3P4zkXV-C-924xUomjHDzMp0tZv=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pbe8e2lpB_W2O1UrMgFsoxjdxjHsqH7m5EmPlCm9_XPPRmW7462Dp8L3T_A8L-tBnm4XcIJBeHWTRcVBBuuQGr-3C_Mw=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rsO383kbQIEXYEe28j7MrAkBUVRnOv9wmV0mpkENQYPcB1A_ThpsDoEcxqqaFV1QVEtRtGJbQvK9GGRlLfeQdD-k0kAg=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81ogqxu0TIr0H4Xep5yHgcLZXxvCcGW6rRiHxufXfRKZ-J41ulBJuK9lVcI9UIUvdrJqlXyjZ_4ItDAdJUnHwIlzsMjC=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pCdfaaXekW6pHif3OY7oO60WTijnw4Aq_kJ_b4PiN2llfR1LD9Hq9uNcnQ4yZyoFSttqjkb35bEKvTzZvOIcXIxLb13Q=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  
 ];
 
 const imagenes_barismo  = [
@@ -29,6 +51,19 @@ const imagenes_barismo  = [
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81odJo4SkYWIoG2IPUFM412mbBWA3JPBjllSo6h9yAKkyH9dFzyoVjrA-UWVRMENVB6lASTpJE2z1wbohMqsH8ADYzBSEw=s1600",
     alt: "Gatitos, no se puede decir más",
   },
+
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pvke8I4P0TBZ1SkrDmkhiPSa636Q7CnSCM6tZdRovas8lg88fLZUub2QFuEZnU2gI_a1-iaVSAyZuCecdxJdEpG-RbfQ=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rKZu6wnPcECPwJVDEdkJsRlV0e57DTVwlb7jFW7Usi_726TRcqmp0iYqAeZDB1IG1j-JF9AcI7FJCK9UwcMLWN-7YhUQ=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oB2G69LU-6fPascQBNqO5lSFk0lyV1FAOdeSCY8mIQpBKIoCh2ncP2U9D3LzZXM57rCVp6hz-BzHOxsnxFOvi-nqcqyg=s1600",
+    alt: "Gatitos, no se puede decir más",
+  }
 ];
 
 const imagenes_pasteleria  = [
@@ -61,6 +96,10 @@ const imagenes_chur  = [
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pd999_fiCChCRlCJ-3Su9DH0Hwd9Mt9iK8gQx_WqDoKlIjbVI3At7PY9K1ogjcofVaWzVMHol1UqJoWn7lmo75Wm4e=s1600",
     alt: "Gatitos, no se puede decir más",
   },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qU4e8t3Nq7J76e4Bp6G9X2kEfppF4zonEcBZUQPVaX7NcLs7nosOyFrI7EcjPSWxEYMmB_TcFtggq79Hm7sX8sf7iT=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
 ];
 
 const imagenes_home  = [
@@ -83,12 +122,16 @@ const imagenes_cocina  = [
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qON6JgoVmHXguiKzut_4b2Pu1y1nmiM5Lpt6BaCDrFKe8jRFOq-raew2Ef_pjABUbOE1j3CJ7oGVw0Qw9tVnJQz4IVwg=s1600",
     alt: "Gatitos, no se puede decir más",
   },
-  {//
+  {
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qL1AZWccM106P2JFLExeza4VH4eW21ZRB0Mddl37b7Egnd9RNMRO2zgrApsxgNxyfygWTaZH3qTKWPoZZJTaQeG6Ahkw=s1600",
     alt: "Gatitos, no se puede decir más",
   },
-  {//
+  {
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qFBi_dmmZtuAN8o4pvD0sy6nvaddbUVVpJQlqeUcNNZZSdLSKEWfIh_9JELTA0eKMu2qlTYgiqV-LDm1w1OOdme9IySA=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r0xYqQzD6INmaZkuAI1Q6Uic6p7fpvJZtwVYg7CE4dWizTH9VcUT24gdQCC9hI0SG-meduD-HjckeBUdw9BZC4P9YGKw=s1600",
     alt: "Gatitos, no se puede decir más",
   },
 ];
@@ -107,8 +150,6 @@ const imagenes_conservas  = [
     alt: "Gatitos, no se puede decir más",
   },
 ];
-
-
 
 
 
@@ -139,6 +180,21 @@ const imagenes_prod  = [
   },
   {
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pOaxIZ7270dB4R8yFIPftnkmjqCB2wAh7lU_p1SRfMAIYKNr4aNBiU64XU2rRHF__I3SgCfvT4le7cbo7MU7Yep_rLlQ=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+];
+
+const imagenes_subli  = [
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r-uhwhoaFkoOQFBW1BYzW8Qgq8yoEWA4UyAZAMSDyopVe-ehFMxoYdZhwrv0lNNrS_XY-ZpN0xa9s-9q-hFbwyK9gexw=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oabqrSSxleoPfOzRAV8MS645HCw4eE792N80Wtek1vdvU5j58lMEhiw4C53qIDjlb6AfG4rpaWsYs8KMrkN-OUXRmW=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qc3YL-xNyEmUht9bvDhuxQWmsb01girsxSvJOwxAyOhgqP3UaHeJ9No4jipaRjan9Vn2rMwSy3dLoXK7ybYmaflUMtew=s1600",
     alt: "Gatitos, no se puede decir más",
   },
 ];
@@ -180,13 +236,19 @@ const imagenes_belleza  = [
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qcR0y_NHKD6IVPkshOI8qx8UyeYR327QlZXVESoFvGrTBquon9nBhqSGomkQI_hBWvMtKUKcjye1RorSdaMW2_XV0Y5g=s2560",
     alt: "Gatitos, no se puede decir más",
   },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qtjs_5Dqv1few3TllW6ee8WUxx9MmNSfI-LEMdh2UBomsCIo1jp9FoGltdmMWJf7sxYexWwSh18nhiV21fd7N7RvXp=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qo7nHZdZzzBeXu6_FdLSi0fE-xF6mOVkXGQyvo9KzonJhDRqPAPxsmnIn3GCJNjKDvdd1MxHS0_1onxSM8Oi0Zkpq3=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
+
+  
 ];
 
 const imagenes_arte  = [
-  {
-    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81psnOA5tI7hN-kbxaRYKsL8gcRKmexldePXyFW2NL9Ks7tMqyEYehDDwkYHc-b6jhSeIzvUmXUZNLCMjIDHQjfM0jxq=s1600",
-    alt: "Gatitos, no se puede decir más",
-  },
   {
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qF-Y2OTlab3H26X9j0k0dF1aGY-fJwEuvSf7cS836KcUovkJsrtfzg9HXZI6uxXoFxtqM02GGr2kuQ43pb2y-wPfNo7w=s1600",
     alt: "Gatitos, no se puede decir más",
@@ -376,9 +438,9 @@ function img_prod() {
   document.getElementById("galeria").innerHTML = HTML;
 }
 
-function img_subl() {
+function img_subli() {
   let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
-  imagenes_subl.forEach(function (imagen) {
+  imagenes_subli.forEach(function (imagen) {
     HTML += `
           <div class="col">
             <div class="card border-primary mb-3" style="max-width: 22rem;">

@@ -14,7 +14,7 @@ const imagenes_tec = [
     id:'2',
   },
   {
-    src: "/public/ejemplos/image_14.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r-uhwhoaFkoOQFBW1BYzW8Qgq8yoEWA4UyAZAMSDyopVe-ehFMxoYdZhwrv0lNNrS_XY-ZpN0xa9s-9q-hFbwyK9gexw=s1600",
     alt: "Ejemplo de sublimacion",
     nombre: "Sublimación",
     id:'3',
@@ -68,25 +68,25 @@ const imagenes_gas = [
 
 const imagenes_ser = [
   {
-    src: "/public/imagenes/image_18.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rNkiPvVLA79qu2639cA_d2WLLYm4ePhtDmKQZQ10M5pmtJLLKwgPFni-bUbyrko9gQSbA46xuP055pPWVqcrNX8o56=s1600",
     alt: "Gatitos, no se puede decir más",
     nombre: "Ebanistería",
     id:'1',
   },
   {
-    src: "/public/imagenes/image_16.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pcmbFJBpslN3-6fafNiIf90tyBnszKlGtVHtAdUXiqzMtSoU7OjGPdhpVfe-TauSCIX7tBDYHWOzB71--HCTFatTmoWQ=s1600",
     alt: "Gatitos, no se puede decir más",
     nombre: "Bisutería",
     id:'2',
   },
   {
-    src: "/public/imagenes/image_15.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qqD4fjYae0wQuTiyO5GNKV-acecMX0U6_cpe9ASGXBaMTNIR_8OeILerr35C9WUAPClTZAltnaW8SU-z5SOduNIvLm=s1600",
     alt: "Gatitos, no se puede decir más",
     nombre: "Arte",
     id:'3',
   },
   {
-    src: "/public/imagenes/image_17.png",
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qo7nHZdZzzBeXu6_FdLSi0fE-xF6mOVkXGQyvo9KzonJhDRqPAPxsmnIn3GCJNjKDvdd1MxHS0_1onxSM8Oi0Zkpq3=s1600",
     alt: "Gatitos, no se puede decir más",
     nombre: "Belleza y estética",
     id:'4',
