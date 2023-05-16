@@ -257,6 +257,10 @@ const imagenes_arte  = [
     src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qqD4fjYae0wQuTiyO5GNKV-acecMX0U6_cpe9ASGXBaMTNIR_8OeILerr35C9WUAPClTZAltnaW8SU-z5SOduNIvLm=s1600",
     alt: "Gatitos, no se puede decir más",
   },
+  {
+    src: "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pOc2q6cgEa2DjehuO-8iesKRM_J1iU0tqB0P81AMB-lvq4cPY3qlkxO-GPLSouxYbhpjYsy0naTcDjISSCoyzY31WeSQ=s1600",
+    alt: "Gatitos, no se puede decir más",
+  },
 ];
 
 //No hay imagenes
