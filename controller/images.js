@@ -153,8 +153,7 @@ function img_sinelementos() {
 
 // Gastronomia (panaderia, charchuleria, barismo)
 function img_pana() {
-  let HTML = `<h2>Panadería</h2></div>
-  <div class="row row-cols-3 row-cols-md-3 g-4">`;
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
   imagenes_pana.forEach(function (imagen) {
     HTML += `
           <div class="col">
@@ -170,8 +169,7 @@ function img_pana() {
 }
 
 function img_chur() {
-  let HTML = `<h2>Charchulería</h2></div>
-  <div class="row row-cols-3 row-cols-md-3 g-4">`;
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
   imagenes_chur.forEach(function (imagen) {
     HTML += `
           <div class="col">
@@ -187,8 +185,7 @@ function img_chur() {
 }
 
 function img_barismo() {
-  let HTML = `<h2>Barismo</h2></div>
-  <div class="row row-cols-3 row-cols-md-3 g-4">`;
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
   imagenes_barismo.forEach(function (imagen) {
     HTML += `
           <div class="col">
@@ -205,8 +202,7 @@ function img_barismo() {
 
 // Tecnologia (diseno, produccion, sublimacion)
 function img_dis() {
-  let HTML = `<h2>Diseño gráfico</h2></div>
-  <div class="row row-cols-3 row-cols-md-3 g-4">`;
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
   imagenes_dis.forEach(function (imagen) {
     HTML += `
           <div class="col">
@@ -222,8 +218,7 @@ function img_dis() {
 }
 
 function img_prod() {
-  let HTML = `<h2>Producción audivisual</h2></div>
-  <div class="row row-cols-3 row-cols-md-3 g-4">`;
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
   imagenes_prod.forEach(function (imagen) {
     HTML += `
           <div class="col">
@@ -239,8 +234,7 @@ function img_prod() {
 }
 
 function img_subl() {
-  let HTML = `<h2>Sublimación</h2></div>
-  <div class="row row-cols-3 row-cols-md-3 g-4">`;
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
   imagenes_subl.forEach(function (imagen) {
     HTML += `
           <div class="col">
@@ -257,8 +251,7 @@ function img_subl() {
 
 // Ebanisteria
 function img_eba() {
-  let HTML = `<h2>Ebanistería</h2></div>
-  <div class="row row-cols-3 row-cols-md-2 g-4">`;
+  let HTML = `<div class="row row-cols-3 row-cols-md-2 g-4">`;
   imagenes_eba.forEach(function (imagen) {
     HTML += `
           <div class="col">
@@ -274,8 +267,7 @@ function img_eba() {
 }
 
 function img_belleza() {
-  let HTML = `<h2>Bisutería</h2></div>
-  <div class="row row-cols-3 row-cols-md-3 g-4">`;
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
   imagenes_belleza.forEach(function (imagen) {
     HTML += `
           <div class="col">
@@ -291,8 +283,7 @@ function img_belleza() {
 }
 
 function img_arte() {
-  let HTML = `<h2>Arte</h2></div>
-  <div class="row row-cols-3 row-cols-md-3 g-4">`;
+  let HTML = `<div class="row row-cols-3 row-cols-md-3 g-4">`;
   imagenes_arte.forEach(function (imagen) {
     HTML += `
           <div class="col">
