@@ -1,3 +1,7 @@
 {
-    "livePreview.defaultPreviewPath": "/View/inicio/pantalla_inicial.html"
+    "livePreview.defaultPreviewPath": "/View/inicio/pantalla_inicial.html",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none"
 }
